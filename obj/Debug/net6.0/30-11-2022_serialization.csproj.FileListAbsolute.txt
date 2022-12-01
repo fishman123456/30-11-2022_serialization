@@ -1,0 +1,15 @@
+C:\Users\Fishman.DB.CORP\Documents\GitHub\30-11-2022_serialization\obj\Debug\net6.0\30-11-2022_serialization.csproj.AssemblyReference.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\30-11-2022_serialization\obj\Debug\net6.0\30-11-2022_serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fishman.DB.CORP\Documents\GitHub\30-11-2022_serialization\obj\Debug\net6.0\30-11-2022_serialization.AssemblyInfoInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\30-11-2022_serialization\obj\Debug\net6.0\30-11-2022_serialization.AssemblyInfo.cs
+C:\Users\Fishman.DB.CORP\Documents\GitHub\30-11-2022_serialization\obj\Debug\net6.0\30-11-2022_serialization.csproj.CoreCompileInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\30-11-2022_serialization\bin\Debug\net6.0\30-11-2022_serialization.exe
+C:\Users\Fishman.DB.CORP\Documents\GitHub\30-11-2022_serialization\bin\Debug\net6.0\30-11-2022_serialization.deps.json
+C:\Users\Fishman.DB.CORP\Documents\GitHub\30-11-2022_serialization\bin\Debug\net6.0\30-11-2022_serialization.runtimeconfig.json
+C:\Users\Fishman.DB.CORP\Documents\GitHub\30-11-2022_serialization\bin\Debug\net6.0\30-11-2022_serialization.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\30-11-2022_serialization\bin\Debug\net6.0\30-11-2022_serialization.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\30-11-2022_serialization\obj\Debug\net6.0\30-11-2022_serialization.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\30-11-2022_serialization\obj\Debug\net6.0\refint\30-11-2022_serialization.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\30-11-2022_serialization\obj\Debug\net6.0\30-11-2022_serialization.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\30-11-2022_serialization\obj\Debug\net6.0\30-11-2022_serialization.genruntimeconfig.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\30-11-2022_serialization\obj\Debug\net6.0\ref\30-11-2022_serialization.dll
