@@ -18,6 +18,7 @@ using (FileStream fs = new FileStream("people.bin", FileMode.OpenOrCreate))
     binFormat.Serialize(fs, people);
 
                 Console.WriteLine("Объект сериализован");
+
             }
 
             // десериализация
